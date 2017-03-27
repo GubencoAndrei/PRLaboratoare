@@ -1,0 +1,30 @@
+D:\Dropbox\UTM\Semestrul6\PR\lab1_PR\HTTP_Request\bin\Debug\lab1HTTP.exe.config
+D:\Dropbox\UTM\Semestrul6\PR\lab1_PR\HTTP_Request\obj\Debug\lab1HTTP.exe
+D:\Dropbox\UTM\Semestrul6\PR\lab1_PR\HTTP_Request\obj\Debug\lab1HTTP.pdb
+D:\Dropbox\UTM\Semestrul6\PR\lab1_PR\HTTP_Request\bin\Debug\lab1HTTP.exe
+D:\Dropbox\UTM\Semestrul6\PR\lab1_PR\HTTP_Request\bin\Debug\lab1HTTP.pdb
+D:\Dropbox\UTM\Semestrul6\PR\lab1_PR\HTTP_Request\obj\Debug\REST Client.csprojResolveAssemblyReference.cache
+D:\Dropbox\UTM\Semestrul6\PR\lab1_PR\HTTP_Request\obj\Debug\lab1HTTP.Form1.resources
+D:\Dropbox\UTM\Semestrul6\PR\lab1_PR\HTTP_Request\obj\Debug\lab1HTTP.Properties.Resources.resources
+D:\Dropbox\UTM\Semestrul6\PR\lab1_PR\HTTP_Request\obj\Debug\REST Client.csproj.GenerateResource.Cache
+C:\Users\Artur\Dropbox\UTM\Semestrul6\PR\lab1_PR\HTTP_Request\bin\Debug\lab1HTTP.exe.config
+C:\Users\Artur\Dropbox\UTM\Semestrul6\PR\lab1_PR\HTTP_Request\obj\Debug\lab1HTTP.exe
+C:\Users\Artur\Dropbox\UTM\Semestrul6\PR\lab1_PR\HTTP_Request\obj\Debug\lab1HTTP.pdb
+C:\Users\Artur\Dropbox\UTM\Semestrul6\PR\lab1_PR\HTTP_Request\bin\Debug\lab1HTTP.exe
+C:\Users\Artur\Dropbox\UTM\Semestrul6\PR\lab1_PR\HTTP_Request\bin\Debug\lab1HTTP.pdb
+C:\Users\Artur\Dropbox\UTM\Semestrul6\PR\lab1_PR\HTTP_Request\obj\Debug\REST Client.csprojResolveAssemblyReference.cache
+C:\Users\Artur\Dropbox\UTM\Semestrul6\PR\lab1_PR\HTTP_Request\obj\Debug\lab1HTTP.Form1.resources
+C:\Users\Artur\Dropbox\UTM\Semestrul6\PR\lab1_PR\HTTP_Request\obj\Debug\lab1HTTP.Properties.Resources.resources
+C:\Users\Artur\Dropbox\UTM\Semestrul6\PR\lab1_PR\HTTP_Request\obj\Debug\REST Client.csproj.GenerateResource.Cache
+C:\Users\Andr3i\Desktop\Univer\PR\lab1_PR\HTTP_Request\bin\Debug\lab1HTTP.exe.config
+C:\Users\Andr3i\Desktop\Univer\PR\lab1_PR\HTTP_Request\obj\Debug\lab1HTTP.exe
+C:\Users\Andr3i\Desktop\Univer\PR\lab1_PR\HTTP_Request\obj\Debug\lab1HTTP.pdb
+C:\Users\Andr3i\Desktop\Univer\PR\lab1_PR\HTTP_Request\bin\Debug\lab1HTTP.exe
+C:\Users\Andr3i\Desktop\Univer\PR\lab1_PR\HTTP_Request\bin\Debug\lab1HTTP.pdb
+C:\Users\Andr3i\Desktop\Univer\PR\lab1_PR\HTTP_Request\obj\Debug\REST Client.csprojResolveAssemblyReference.cache
+C:\Users\Andr3i\Desktop\Univer\PR\lab1_PR\HTTP_Request\obj\Debug\lab1HTTP.Form1.resources
+C:\Users\Andr3i\Desktop\Univer\PR\lab1_PR\HTTP_Request\obj\Debug\lab1HTTP.Properties.Resources.resources
+C:\Users\Andr3i\Desktop\Univer\PR\lab1_PR\HTTP_Request\obj\Debug\REST Client.csproj.GenerateResource.Cache
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab1_PR\HTTP_Request\bin\Debug\lab1HTTP.exe.config
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab1_PR\HTTP_Request\obj\Debug\lab1HTTP.exe
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab1_PR\HTTP_Request\obj\Debug\lab1HTTP.pdb

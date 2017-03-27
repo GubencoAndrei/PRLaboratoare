@@ -1,0 +1,9 @@
+D:\Dropbox\UTM\Semestrul6\PR\lab1HTTP\lab1HTTP\bin\Debug\lab1HTTP.exe.config
+D:\Dropbox\UTM\Semestrul6\PR\lab1HTTP\lab1HTTP\bin\Debug\lab1HTTP.exe
+D:\Dropbox\UTM\Semestrul6\PR\lab1HTTP\lab1HTTP\bin\Debug\lab1HTTP.pdb
+D:\Dropbox\UTM\Semestrul6\PR\lab1HTTP\lab1HTTP\obj\Debug\lab1HTTP.csprojResolveAssemblyReference.cache
+D:\Dropbox\UTM\Semestrul6\PR\lab1HTTP\lab1HTTP\obj\Debug\lab1HTTP.Form1.resources
+D:\Dropbox\UTM\Semestrul6\PR\lab1HTTP\lab1HTTP\obj\Debug\lab1HTTP.Properties.Resources.resources
+D:\Dropbox\UTM\Semestrul6\PR\lab1HTTP\lab1HTTP\obj\Debug\lab1HTTP.csproj.GenerateResource.Cache
+D:\Dropbox\UTM\Semestrul6\PR\lab1HTTP\lab1HTTP\obj\Debug\lab1HTTP.exe
+D:\Dropbox\UTM\Semestrul6\PR\lab1HTTP\lab1HTTP\obj\Debug\lab1HTTP.pdb

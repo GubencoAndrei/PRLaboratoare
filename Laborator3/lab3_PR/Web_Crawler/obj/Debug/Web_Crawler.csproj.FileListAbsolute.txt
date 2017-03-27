@@ -1,0 +1,27 @@
+D:\Dropbox\UTM\Semestrul6\PR\lab1HTTP\Web_Crawler\bin\Debug\Web_Crawler.exe.config
+D:\Dropbox\UTM\Semestrul6\PR\lab1HTTP\Web_Crawler\bin\Debug\Web_Crawler.exe
+D:\Dropbox\UTM\Semestrul6\PR\lab1HTTP\Web_Crawler\bin\Debug\Web_Crawler.pdb
+D:\Dropbox\UTM\Semestrul6\PR\lab1HTTP\Web_Crawler\obj\Debug\Web_Crawler.csprojResolveAssemblyReference.cache
+D:\Dropbox\UTM\Semestrul6\PR\lab1HTTP\Web_Crawler\obj\Debug\Web_Crawler.Form1.resources
+D:\Dropbox\UTM\Semestrul6\PR\lab1HTTP\Web_Crawler\obj\Debug\Web_Crawler.Properties.Resources.resources
+D:\Dropbox\UTM\Semestrul6\PR\lab1HTTP\Web_Crawler\obj\Debug\Web_Crawler.csproj.GenerateResource.Cache
+D:\Dropbox\UTM\Semestrul6\PR\lab1HTTP\Web_Crawler\obj\Debug\Web_Crawler.exe
+D:\Dropbox\UTM\Semestrul6\PR\lab1HTTP\Web_Crawler\obj\Debug\Web_Crawler.pdb
+D:\Dropbox\UTM\Semestrul6\PR\lab1_PR\Web_Crawler\bin\Debug\Web_Crawler.exe.config
+D:\Dropbox\UTM\Semestrul6\PR\lab1_PR\Web_Crawler\obj\Debug\Web_Crawler.exe
+D:\Dropbox\UTM\Semestrul6\PR\lab1_PR\Web_Crawler\obj\Debug\Web_Crawler.pdb
+D:\Dropbox\UTM\Semestrul6\PR\lab1_PR\Web_Crawler\bin\Debug\Web_Crawler.exe
+D:\Dropbox\UTM\Semestrul6\PR\lab1_PR\Web_Crawler\bin\Debug\Web_Crawler.pdb
+D:\Dropbox\UTM\Semestrul6\PR\lab1_PR\Web_Crawler\obj\Debug\Web_Crawler.csprojResolveAssemblyReference.cache
+D:\Dropbox\UTM\Semestrul6\PR\lab1_PR\Web_Crawler\obj\Debug\Web_Crawler.Form1.resources
+D:\Dropbox\UTM\Semestrul6\PR\lab1_PR\Web_Crawler\obj\Debug\Web_Crawler.Properties.Resources.resources
+D:\Dropbox\UTM\Semestrul6\PR\lab1_PR\Web_Crawler\obj\Debug\Web_Crawler.csproj.GenerateResource.Cache
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab1_PR\Web_Crawler\bin\Debug\Web_Crawler.exe.config
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab1_PR\Web_Crawler\obj\Debug\Web_Crawler.exe
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab1_PR\Web_Crawler\obj\Debug\Web_Crawler.pdb
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab1_PR\Web_Crawler\obj\Debug\Web_Crawler.csprojResolveAssemblyReference.cache
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab1_PR\Web_Crawler\obj\Debug\Web_Crawler.Form1.resources
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab1_PR\Web_Crawler\obj\Debug\Web_Crawler.Properties.Resources.resources
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab1_PR\Web_Crawler\obj\Debug\Web_Crawler.csproj.GenerateResource.Cache
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab1_PR\Web_Crawler\bin\Debug\Web_Crawler.exe
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab1_PR\Web_Crawler\bin\Debug\Web_Crawler.pdb
