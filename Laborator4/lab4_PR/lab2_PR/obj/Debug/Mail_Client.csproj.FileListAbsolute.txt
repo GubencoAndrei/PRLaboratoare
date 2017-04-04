@@ -1,0 +1,33 @@
+D:\Dropbox\UTM\Semestrul6\PR\lab2_PR\lab2_PR\bin\Debug\lab2_PR.exe.config
+D:\Dropbox\UTM\Semestrul6\PR\lab2_PR\lab2_PR\bin\Debug\lab2_PR.exe
+D:\Dropbox\UTM\Semestrul6\PR\lab2_PR\lab2_PR\bin\Debug\lab2_PR.pdb
+D:\Dropbox\UTM\Semestrul6\PR\lab2_PR\lab2_PR\obj\Debug\Mail_Client.csprojResolveAssemblyReference.cache
+D:\Dropbox\UTM\Semestrul6\PR\lab2_PR\lab2_PR\obj\Debug\lab2_PR.Form1.resources
+D:\Dropbox\UTM\Semestrul6\PR\lab2_PR\lab2_PR\obj\Debug\lab2_PR.Properties.Resources.resources
+D:\Dropbox\UTM\Semestrul6\PR\lab2_PR\lab2_PR\obj\Debug\Mail_Client.csproj.GenerateResource.Cache
+D:\Dropbox\UTM\Semestrul6\PR\lab2_PR\lab2_PR\obj\Debug\lab2_PR.exe
+D:\Dropbox\UTM\Semestrul6\PR\lab2_PR\lab2_PR\obj\Debug\lab2_PR.pdb
+D:\Dropbox\UTM\Semestrul6\PR\lab2_PR\lab2_PR\bin\Debug\OpenPop.dll
+D:\Dropbox\UTM\Semestrul6\PR\lab2_PR\lab2_PR\bin\Debug\OpenPop.xml
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab2_PR\lab2_PR\bin\Debug\lab2_PR.exe.config
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab2_PR\lab2_PR\obj\Debug\lab2_PR.exe
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab2_PR\lab2_PR\obj\Debug\lab2_PR.pdb
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab2_PR\lab2_PR\bin\Debug\lab2_PR.exe
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab2_PR\lab2_PR\bin\Debug\lab2_PR.pdb
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab2_PR\lab2_PR\bin\Debug\OpenPop.dll
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab2_PR\lab2_PR\bin\Debug\OpenPop.xml
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab2_PR\lab2_PR\obj\Debug\Mail_Client.csprojResolveAssemblyReference.cache
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab2_PR\lab2_PR\obj\Debug\lab2_PR.Form1.resources
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab2_PR\lab2_PR\obj\Debug\lab2_PR.Properties.Resources.resources
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\PR\lab2_PR\lab2_PR\obj\Debug\Mail_Client.csproj.GenerateResource.Cache
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\Новая папка\lab4_PR\lab2_PR\bin\Debug\lab4_PR.exe.config
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\Новая папка\lab4_PR\lab2_PR\bin\Debug\lab4_PR.exe
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\Новая папка\lab4_PR\lab2_PR\bin\Debug\lab4_PR.pdb
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\Новая папка\lab4_PR\lab2_PR\bin\Debug\OpenPop.dll
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\Новая папка\lab4_PR\lab2_PR\bin\Debug\OpenPop.xml
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\Новая папка\lab4_PR\lab2_PR\obj\Debug\Mail_Client.csprojResolveAssemblyReference.cache
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\Новая папка\lab4_PR\lab2_PR\obj\Debug\lab2_PR.Form1.resources
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\Новая папка\lab4_PR\lab2_PR\obj\Debug\lab4_PR.Properties.Resources.resources
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\Новая папка\lab4_PR\lab2_PR\obj\Debug\Mail_Client.csproj.GenerateResource.Cache
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\Новая папка\lab4_PR\lab2_PR\obj\Debug\lab4_PR.exe
+C:\Users\Andr3i\Desktop\Univer\Programarea in Retea\Новая папка\lab4_PR\lab2_PR\obj\Debug\lab4_PR.pdb

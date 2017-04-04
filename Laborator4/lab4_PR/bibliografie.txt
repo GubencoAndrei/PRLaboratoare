@@ -1,0 +1,5 @@
+http://www.aspsnippets.com/Articles/Fetch-and-Read-emails-from-POP3-mail-server-using-C-and-VB.Net---Part-I.aspx
+http://www.aspsnippets.com/Articles/Fetch-and-Read-emails-from-POP3-mail-server-using-C-and-VB.Net---Part-II.aspx
+http://hpop.sourceforge.net/
+http://www.kiranbanda.in/2008/11/pop3-client-in-c.html
+http://stackoverflow.com/questions/10601913/openpop-net-get-actual-message-text
